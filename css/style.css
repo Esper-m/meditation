@@ -1629,6 +1629,7 @@ body {
         -ms-flex-direction: column;
             flex-direction: column;
     row-gap: 1.875rem;
+    color: #fff;
   }
 
   .menu__link {
